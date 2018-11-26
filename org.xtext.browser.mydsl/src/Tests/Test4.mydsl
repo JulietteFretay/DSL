@@ -1,7 +1,7 @@
 Test "4"{
   Open "Firefox"
   GoTo "http://www.imt-atlantique.fr/fr/rechercher"
-  Insert SearchField with "Donald Trump"
+  Insert in SearchField "search" with "Donald Trump"
   Click Button "Appliquer les filtres"
   Verify Contains Text "Aucun résultat ne correspond à votre recherche"
 }

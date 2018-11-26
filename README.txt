@@ -7,3 +7,5 @@ Test 6 : KO (Nous n'arrivons pas à choisir les options qui ne sont pas visibles)
 Test 7 : KO
 Test 8 : KO (Nous n'arrivons pas à choisir les options qui ne sont pas visibles)
 Test 9 : KO (Nous n'arrivons pas à cliquer sur la photo qui n'est pas visible)
+
+Attention il faut changer le lien vers le driver chrome.
